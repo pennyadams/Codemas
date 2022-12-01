@@ -40,3 +40,7 @@ foreach (string gift in presents)
 DateTime christmas = new DateTime(2022, 12, 25);
 double daysToGo = (christmas - (global::System.DateTime)DateTime.Now).TotalDays;
 Console.WriteLine($"Only {daysToGo} days until Christmas");
+
+
+
+
