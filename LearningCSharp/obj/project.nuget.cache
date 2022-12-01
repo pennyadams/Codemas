@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Zz7WZh8sRHPR0lknsU3muWg04eJZFdPzNw0tbQHAnamU9FcGw16res+DFTV2PqPLcdoEBOGUDIU8kFtaWg7bgA==",
-  "success": true,
+  "dgSpecHash": "SUnVO6x1EjR9tLyUBiDnP8l8RI9Txi+l0DxmmkW1JkpTKT4tb/92pYJAr4XYFSBXwOkgSwW1l0nD+6aUH+27Pw==",
+  "success": false,
   "projectFilePath": "C:\\Users\\penny\\OneDrive\\Documents\\Codemas\\Codemas\\LearningCSharp\\LearningCSharp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-macos"
+    }
+  ]
 }
